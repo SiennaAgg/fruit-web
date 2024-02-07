@@ -11176,3 +11176,7 @@ header.banner-image-three .banner-image-three-heading {
 .minus-spacer {
   margin-top: -2rem;
 }
+
+.huge-minus-spacer {
+  margin-top: -6rem;
+}
